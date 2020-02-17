@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wallpaper</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="desc">Thuộc tuýp người giải quyết vấn đề, chăm chỉ, muốn tham gia một nhóm các lập trình viên có cùng chí hướng. Đang tìm kiếm một vị trí phù hợp tại công ty có các dự án với độ thử thách cao.</string>
+</resources>
